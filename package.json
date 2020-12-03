@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/LucasVerdiAmarante/Video/issues"
   },
-  "homepage": "https://github.com/LucasVerdiAmarante/Video#readme"
+  "homepage": "https://github.com/LucasVerdiAmarante/Video#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
 }
